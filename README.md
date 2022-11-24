@@ -35,5 +35,5 @@ Descrição das funcionalidades: <br>
 
 Monitoramento em tempo real da freqência cardíaca
 
-<img src="https://github.com/trgrocha/VirtualCoach/blob/main/imagens/monitor.png"/>
+<img src="https://github.com/trgrocha/VirtualCoach/blob/main/imagens/monitor.jpg"/>
 
