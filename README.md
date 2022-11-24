@@ -23,5 +23,14 @@ A aplicação foi desenvolvida me linguagem de programação Python 3.9.2 utiliz
 
 <img src="https://github.com/trgrocha/VirtualCoach/blob/main/imagens/menu.png"/>
 
+Descrição das funcionalidades: <br><br>
 
-
+1 - Restart Learning - Função que apaga o arquivo onde são armazenadas as posições do corpo humano.<br>
+2 - Inform training position - Função que captura as posições do corpo humano a partir da câmera.<br>
+3 - Execute Learning - Função que executa o processo de aprendizado para classificar as posições capturadas.<br>
+4 - Test Learning - Função para realização dos testes após a realização do aprendizado.<br>
+5 - Prediction of calories burned - Função para predição de gasto calorico com bases na média da freqência cardíaca.<br>
+6 - Heart Rate Monitor - Função que monitora a freqência cardíaca em tempo real a partir da smart band da Xiomi.<br>
+<br>
+<br>
+Monitoramento em tempo real da freqência cardíaca
