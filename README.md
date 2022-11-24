@@ -37,3 +37,9 @@ Monitoramento em tempo real da freqência cardíaca
 
 <img src="https://github.com/trgrocha/VirtualCoach/blob/main/imagens/monitor.jpg"/>
 
+Para conexão com a smartband utilizei a API que pode ser obtida neste endereço:
+
+https://github.com/satcar77/miband4
+
+
+
